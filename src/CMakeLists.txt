@@ -1,0 +1,1 @@
+add_library(PiCalculationInternal STATIC Matrix.cpp Simulator.cpp OutputHelperConsole.cpp OutputHelperPPM.cpp MatrixInitializer.cpp)
